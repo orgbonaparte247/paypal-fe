@@ -1,0 +1,6 @@
+SDLC is good using devops and agile frameworks
+Linux is open source
+Scripting is automation
+Git is a destributed version control
+aws is cloude computing provider
+ec2 is virtual servers in the cloude
